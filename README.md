@@ -1,4 +1,4 @@
-## Welcome to GitHub Games
+You can play the game at: https://TTNTO.github.io/github-games/
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
